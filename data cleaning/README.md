@@ -7,7 +7,7 @@ In these tasks I used:
 •	fillna(method='bfill')
 
 •	to_datetime(columnsName,format="%m/%d/%Y")
-
+   
 •	decode()
 
 •	encode()
